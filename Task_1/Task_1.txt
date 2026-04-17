@@ -1,0 +1,13 @@
+TASK_1: Register an application on the cloud
+
+1-Create a GitHub account.
+2-Download Visual Studio and configure your User Interface.
+3-Create an Azure free account.
+    -You will need a credit card to complete this setup (no charge will be posted).
+    -Use your GitHub account.
+    -Select the Free tier.
+4-Register an application with Azure Active Directory.
+    -Join the 365 Developer Program: Once you have entered your user information, it might take up to two hours for Azure to have your file updated. Only then can you move on to the next step.
+    -Set up your Microsoft 365 E5 developer subscription: Once it is set up successfully, you will receive an email similar to the example provided in the Resources section below. Save it for the next 90 days, as you can use it to explore more training options and access a sandbox to explore cutting-edge technologies.
+    -Follow the instructions within the email to access the account dashboard. Explore a bit and then move to the next step.
+    -Register an app with Azure Active Directory: Be creative with your application's name. We will not use this app in our overall project, but it is critical to be familiar with registering apps on the cloud.
