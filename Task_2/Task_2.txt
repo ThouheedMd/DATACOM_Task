@@ -1,0 +1,8 @@
+TASK_2: Create a GitHub Action workflow
+
+1-Create a new repository.
+2-Read the terminal user guide (select the link applicable to your computer system).
+3-Download and install Git (select the link applicable to your computer system), and follow the configuration steps as listed in the Word document provided in the Resources section below.
+4-Clone the newly created empty repository to your local machine (please start from "Cloning an empty repository" on the webpage).
+5-Understand the concept variables by following the link. Note: this is key for creating the GitHub actions in the next step.
+6-Create your first GitHub Actions workflow!
